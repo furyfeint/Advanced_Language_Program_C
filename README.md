@@ -1,2 +1,14 @@
 # Advanced_Language_Program_C
-It contains all the codes of my course in the 2nd semester. Supervised by my honourable professor Wang Yunyun followed by the book 'The C Programming Language' (2nd edition)
+This repository contains all the coding exercises and examples from my second-semester C programming course, conducted under the guidance of Professor Wang Yunyun. The work closely follows the textbook The C Programming Language (2nd Edition) by Brian Kernighan and Dennis Ritchie.
+
+It provides a structured collection of programs covering:
+
+Fundamental C syntax and programming concepts
+
+Functions, arrays, and pointers
+
+File handling and memory management
+
+Implementation of standard algorithms and data structures
+
+This repository serves as both a personal reference and a resource for others looking to learn or practice C programming in an academic context.
